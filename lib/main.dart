@@ -5,8 +5,6 @@ import 'package:cafe_orders/models/good.dart';
 import 'package:cafe_orders/models/order.dart';
 import 'package:cafe_orders/models/ordered_goods.dart';
 import 'package:flutter/material.dart';
-import 'package:path/path.dart';
-import 'package:sqflite/sqflite.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
